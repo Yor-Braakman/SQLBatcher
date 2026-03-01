@@ -2,6 +2,8 @@
 
 Parallel SQL batch executor with multiple authentication methods for SQL Server and Azure SQL Database.
 
+Why I made it: When releasing a new database project to a database, after having run the pre-deployment script on the db, you can run all tables changes parallel to quicken release time.
+
 ## Features
 
 - Multiple authentication methods:
